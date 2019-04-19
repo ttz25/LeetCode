@@ -83,6 +83,5 @@ public class Divide_29 {
     public static void main(String[] args) {
         Divide_29 test = new Divide_29();
        System.out.println(test.my_2(-100,-6));
-
     }
 }

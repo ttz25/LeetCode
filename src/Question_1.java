@@ -17,7 +17,7 @@ class Question_1 {
     public static void main(String[] args){
         Question_1 s = new Question_1();
         int nums[] = {2,7,11,15};
-        int result[] = s.twoSum(nums,11);
+        int result[] = s.twoSum(nums,9);
         System.out.println("["+result[0]+","+result[1]+"]");
     }
 }

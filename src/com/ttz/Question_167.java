@@ -1,3 +1,5 @@
+package com.ttz;
+
 /**
  * 作者： 周婷婷
  * 日期： 2021-05-22 16:32
@@ -16,7 +18,7 @@ public class Question_167 {
     }
 
     /**
-     * 我的：使用二分法，因为已经排序了，
+     * 我的：因为已经排序了，
      * @param numbers
      * @param target
      * @return
